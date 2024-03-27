@@ -1,0 +1,105 @@
+Waiting : Client{ID=1, timeArrival=1, timeService=2} Client{ID=2, timeArrival=4, timeService=2} Client{ID=3, timeArrival=4, timeService=1} Client{ID=4, timeArrival=2, timeService=3} Client{ID=5, timeArrival=1, timeService=1} Client{ID=6, timeArrival=4, timeService=2} Client{ID=7, timeArrival=3, timeService=1} Client{ID=8, timeArrival=4, timeService=2} Client{ID=9, timeArrival=4, timeService=3} Client{ID=10, timeArrival=2, timeService=2} 
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : Client{ID=2, timeArrival=4, timeService=2} Client{ID=3, timeArrival=4, timeService=1} Client{ID=4, timeArrival=2, timeService=3} Client{ID=6, timeArrival=4, timeService=2} Client{ID=7, timeArrival=3, timeService=1} Client{ID=8, timeArrival=4, timeService=2} Client{ID=9, timeArrival=4, timeService=3} Client{ID=10, timeArrival=2, timeService=2} 
+Queue 1: Client{ID=1, timeArrival=1, timeService=2} 
+Queue 2: Client{ID=5, timeArrival=1, timeService=1} 
+Queue 3: empty
+
+Waiting : Client{ID=2, timeArrival=4, timeService=2} Client{ID=3, timeArrival=4, timeService=1} Client{ID=6, timeArrival=4, timeService=2} Client{ID=7, timeArrival=3, timeService=1} Client{ID=8, timeArrival=4, timeService=2} Client{ID=9, timeArrival=4, timeService=3} 
+Queue 1: Client{ID=1, timeArrival=1, timeService=1} 
+Queue 2: Client{ID=10, timeArrival=2, timeService=2} 
+Queue 3: Client{ID=4, timeArrival=2, timeService=3} 
+
+Waiting : Client{ID=2, timeArrival=4, timeService=2} Client{ID=3, timeArrival=4, timeService=1} Client{ID=6, timeArrival=4, timeService=2} Client{ID=8, timeArrival=4, timeService=2} Client{ID=9, timeArrival=4, timeService=3} 
+Queue 1: Client{ID=7, timeArrival=3, timeService=1} 
+Queue 2: Client{ID=10, timeArrival=2, timeService=1} 
+Queue 3: Client{ID=4, timeArrival=2, timeService=2} 
+
+Waiting : none
+Queue 1: Client{ID=2, timeArrival=4, timeService=2} Client{ID=9, timeArrival=4, timeService=3} 
+Queue 2: Client{ID=3, timeArrival=4, timeService=1} Client{ID=6, timeArrival=4, timeService=2} 
+Queue 3: Client{ID=4, timeArrival=2, timeService=1} Client{ID=8, timeArrival=4, timeService=2} 
+
+Waiting : none
+Queue 1: Client{ID=2, timeArrival=4, timeService=1} Client{ID=9, timeArrival=4, timeService=3} 
+Queue 2: Client{ID=6, timeArrival=4, timeService=2} 
+Queue 3: Client{ID=8, timeArrival=4, timeService=2} 
+
+Waiting : none
+Queue 1: Client{ID=9, timeArrival=4, timeService=3} 
+Queue 2: Client{ID=6, timeArrival=4, timeService=1} 
+Queue 3: Client{ID=8, timeArrival=4, timeService=1} 
+
+Waiting : none
+Queue 1: Client{ID=9, timeArrival=4, timeService=2} 
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: Client{ID=9, timeArrival=4, timeService=1} 
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
+Waiting : none
+Queue 1: empty
+Queue 2: empty
+Queue 3: empty
+
